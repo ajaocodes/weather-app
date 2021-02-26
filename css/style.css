@@ -1,5 +1,33 @@
 body{
     text-align: center;
     padding: 300px;
-    background-color: antiquewhite;
+    background-color: whitesmoke;
 }
+
+#name {
+    font-family: Garamond;
+    font-size: x-large;
+    color: goldenrod;
+    font-style: oblique;
+} 
+
+#temp {
+    font-family: Garamond;
+    font-size: medium;
+    color: goldenrod;
+    font-style: oblique;
+} 
+#feelslike {
+    font-family: Garamond;
+    font-size: medium;
+    color: goldenrod;
+    font-style: oblique;
+} 
+#description {
+    font-family: Garamond;
+    font-size: medium;
+    color: goldenrod;
+    font-style: oblique;
+} 
+
+
